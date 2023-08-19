@@ -1,7 +1,5 @@
 # Periodic Table Element Information - Bash Script
 
-![Periodic Table Element Information](screenshot.png)
-
 ## Introduction
 
 The Periodic Table Element Information Bash Script is a command-line tool that provides information about chemical elements from the periodic table. By providing an element's name, symbol, or atomic number as an argument, the script retrieves essential properties and displays them in a user-friendly manner.
